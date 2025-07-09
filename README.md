@@ -21,9 +21,6 @@ Dice Challenge is a fun two-player game where each player rolls a dice. The play
 - CSS
 - JavaScript
 
-## 📷 Screenshot
-
-*(Add a screenshot of your game UI here if available)*
 
 ## 📁 How to Use
 
